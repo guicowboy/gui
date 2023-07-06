@@ -7,3 +7,11 @@
 
 .site { display: flex;}
 .cabecalho-imagem {width: 10%}
+
+
+
+.site { background-image: linear-gradient(#DD4F94, #4EBFE9 );display: flex;justify-content: space-around;}
+
+.lista-fotos { display: flex; justify-content: space-around;}
+
+.fotos { background-color: #E22A2A; display: flex; justify-content: space-around;}
